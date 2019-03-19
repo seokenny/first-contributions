@@ -1,4 +1,5 @@
 # Contributors
+- Kenny Seo (https://github.com/seokenny)
   Suki Sahota (https://github.com/suki-sahota)
 - Jatin Kathuria (https://github.com/logeekical)
 - Ritu S
