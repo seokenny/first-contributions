@@ -6,7 +6,6 @@
 - [Raul Dutta] (https://github.com/duttar18)
 - [Fayad Alkhadra] (https://github.com/ghost-fa)
   [rodrigoamc] (https://github.com/rodrigo-amc)
-- Kenny Seo (https://github.com/seokenny)
 - [Shubham Kandiyal] (https://github.com/shubhamkandiyal0101)
 - [Mr Toby James Henderson](https://github.com/Mr-Henderson)
 - [vbertazzo] (https://github.com/vbertazzo)
